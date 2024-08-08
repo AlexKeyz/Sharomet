@@ -1,0 +1,2 @@
+Build path: C:/Users/Alex/Desktop/Игры Unity/CL
+Build number: 146
